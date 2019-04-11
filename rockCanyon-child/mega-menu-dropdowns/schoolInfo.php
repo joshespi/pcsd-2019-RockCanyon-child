@@ -23,7 +23,8 @@
             <li class="pdf"><a href="https://rockcanyon.provo.edu/wp-content/uploads/2019/01/01022019-RC-School-Achievement-2017-2018.pdf">Achievement Data</a></li>
             <li class="int"><a href="https://rockcanyon.provo.edu/community-council/">Community Council</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
-            
+            <li class="int"><a href="https://rockcanyon.provo.edu/school-information/before-after-school-program/">Before/After School Program</a></li>
+            <li class="int"><a href="https://rockcanyon.provo.edu/school-information/parent-teacher-association/">PTA</a></li>
 		</ul>
 </div>
 <div class="dropDownColumn">

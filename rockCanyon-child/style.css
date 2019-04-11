@@ -90,13 +90,13 @@ header styles
 #mainHeader .contactinfo li span.phone, #mainHeader .contactinfo li span.fax {
 	margin-left: 10px;
 }
-@media (max-width: 1360px) {
+@media (max-width: 1450px) {
 	#mainHeader h1 {font-size: 2.5em;top: 17px;}
 }
-@media (max-width: 1270px) {
+@media (max-width: 1330px) {
 	#mainHeader h1 {font-size: 2em;top:17px;}
 }
-@media (max-width: 1184px) {
+@media (max-width: 1212px) {
 	#mainHeader h1 {top: 10px;}
 	#mainHeader aside {top:65px;left: 71px;right: auto;}
 	/*#mainHeader .sociallinks,#mainHeader #search-box .search-input, #mainHeader #search-box .search-submit {top:24px;}*/
